@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=whErCLh0-QU
 
 Modified and expanded to add window size, and
 title label
+   name:   Simple Tkinter Calculator no GUI
+   ver:    1.0
    by:     Jason Karle
    date:   12 Nov 2018
 """
