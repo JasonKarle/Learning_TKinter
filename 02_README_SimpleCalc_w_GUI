@@ -1,0 +1,24 @@
+This is a very simple calculator with a simple GUI
+that allows the user to add, subtract, multiple, and
+divide. Based on the example from the YouTube course
+
+"How to create Game: Python GUI 101 with TKiner Complete TUTORIAL"
+
+https://www.youtube.com/watch?v=whErCLh0-QU
+
+You can ONLY do one calculation at a time. Or in other
+words, press equal once. Then you need to start a new
+calculation (with or without hiiting clear)
+
+This calculator DOES NOT rememeber the last answer, so
+you can not continue to maniplate the last answer.
+
+Future versions will stop the calc label from resizing
+and MAY allow for continued calcualtions.
+
+Modified and expanded to add window size, title label, and
+better organize the program. (in my opinion that is!)
+   name:   Simple Tkinter Calculator with GUI
+   ver:    1.0
+   by:     Jason Karle
+   date:   12 Nov 2018
